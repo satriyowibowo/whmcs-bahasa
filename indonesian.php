@@ -13,10 +13,11 @@
  *
  * @package    WHMCS
  * @author     WHMCS Limited <development@whmcs.com>
+ * @co-author  Customer Support Dept. HostMikro
  * @copyright  Copyright (c) WHMCS Limited 2005-2015
- * @license    http://www.whmcs.com/license/ WHMCS Eula
+ * @translation-copyright  Copyright (c) HostMikro 2018-2019
  * @version    $Id$
- * @link       http://www.whmcs.com/
+ * @link       http://www.hostmikro.co.id/
  */
 
 if (!defined("WHMCS")) die("This file cannot be accessed directly");
