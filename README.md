@@ -32,8 +32,8 @@ replace [whmcs-installation] with actual folder location of your WHMCS installat
 
 4. Give proper permission and ownership
 ``` 
-chmod 644 [whmcs-installation]/lang/indonesian.php
-chown user:group [whmcs-installation]/lang/indonesian.php
+# chmod 644 [whmcs-installation]/lang/indonesian.php
+# chown user:group [whmcs-installation]/lang/indonesian.php
 ```
 again, replace [whmcs-installation] with actual folder location of your WHMCS installation directory
 
